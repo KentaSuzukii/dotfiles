@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = s.k7nta@gmail.com
+	name = Kenta Suzuki
